@@ -1,0 +1,28 @@
+# 가상환경
+.venv/
+venv/
+env/
+
+# 바이트코드
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# 원고·책 PDF는 저장소에 포함하지 않음 (내용 유출 방지)
+*.pdf
+*.PDF
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 기타
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
