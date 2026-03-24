@@ -22,6 +22,7 @@ Thumbs.db
 *.swo
 
 # 기타
+temp.md
 *.log
 .pytest_cache/
 .coverage
